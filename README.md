@@ -1,3 +1,1 @@
-# Week_04
-Intro to React
-Adding a list of elements to your todo list
+# Setting up the client side with apollo for graphql
