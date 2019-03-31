@@ -1,1 +1,6 @@
-# Setting up the client side with apollo for graphql
+# Apollo Client Example
+
+[X] Basic query
+[] Basic mutations 
+
+(more documenentation to come) 
